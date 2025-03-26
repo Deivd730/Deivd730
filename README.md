@@ -4,13 +4,20 @@
 
 <h2> About Me! </h2>
 
+<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat" width="400px" align="right">
+
 - 👨🏽‍💻 I’m currently a student
 - 🌱 I’m currently exploring JAVA
 
 ### <u> Languages: </u>
 
+  
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+
+
+
 
 <!-- - ⚡ Fun fact: ...  -->
 <!-- - 😄 Pronouns: ... -->
