@@ -4,7 +4,7 @@
 
 <h2> About Me! </h2>
 
-- 👨🏽‍💻 I’m currently a Stucom student
+- 👨🏽‍💻 I’m currently a student
 - 🌱 I’m currently exploring JAVA
 
 <!-- - ⚡ Fun fact: ...  -->
