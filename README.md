@@ -12,11 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
-
-
-
-
 <!-- - ⚡ Fun fact: ...  -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - 📫 How to reach me ... -->
