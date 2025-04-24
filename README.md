@@ -15,6 +15,8 @@
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=Deivd730)
+
 
 
 
