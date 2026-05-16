@@ -6,6 +6,8 @@ I'm David, Backend developer
 
 <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat" width="400px" align="right">
 
+<div style="clear: both;"></div>
+
 - 👨🏽‍💻 I’m currently exploring new opportunities
 
 # 💻 Tech Stack:
