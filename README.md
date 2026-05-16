@@ -5,9 +5,6 @@ I'm David, Backend developer
 # About Me!
 
 - 👨🏽‍💻 I’m currently exploring new opportunities
-  <img src="cat.gif" title="CatCat" alt="CatCat" style="float: right; margin-left: 20px; max-width:400px;" />
-
-<div style="clear: both;"></div>
 
 # 💻 Tech Stack:
 
