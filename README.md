@@ -4,11 +4,10 @@ I'm David, Backend developer
 
 # About Me!
 
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat" width="400px" align="right">
+- 👨🏽‍💻 I’m currently exploring new opportunities
+  <img src="cat.gif" title="CatCat" alt="CatCat" style="float: right; margin-left: 20px; max-width:400px;" />
 
 <div style="clear: both;"></div>
-
-- 👨🏽‍💻 I’m currently exploring new opportunities
 
 # 💻 Tech Stack:
 
